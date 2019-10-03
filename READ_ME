@@ -1,0 +1,54 @@
+
+Reason To Choose The Topic:
+
+The wide application of location-based services requires a high standard of positioning technology. Although outdoor positioning technology has matured, research into high accuracy positioning technology has gradually transferred from the outdoors to indoor . This is mainly due to two reasons: first, according to the investigation and analysis in reference , people generally spend about 80–90% of their daily time indoors. Furthermore, 70% of mobile phones are used indoors and 80% of data communications are performed indoors. Second, the above-mentioned data show that the demand for indoor mobile communication is very strong. Nevertheless, function areas in indoor spaces—especially large indoor public spaces such as airports, plazas, hotels, and soon—become more complicated and larger, for example, restaurants, cinemas, jewelers and many other kinds of stores may be integrated on only one ﬂoor level in a plaza, and so they may prove difficult for customers to ﬁnd interesting areas. Therefore, from the above-mentioned viewpoints, indoor location-based services are of huge market potential.
+
+
+
+Objective And Scope Of The Project:
+
+Using Wi-Fi signal strength for Fingerprint - based approaches attract more and more attention due to the wide deployment of Wi-Fi access points or routers. Indoor positioning problem using Wi-Fi signal fingerprints can be viewed as a machine-learning task to be solved mathematically. This project proposes an efficient and reliable Wi-Fi real-time indoor positioning system using fingerprinting algorithm. The proposed positioning system is tested and evaluated in multiple indoor scenarios.
+Simulation and testing results show that the proposed system is a feasible location based service (LBS) solution.
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+Methodology:
+
+Fingerprinting method:
+This method has been used for indoor positioning for several years. Its main advantage is that it can use existing WLAN infrastructures or other network environments. Compared to techniques like Trilateration, Fingerprinting technique is more suitable for indoor environments and is relatively simple to deploy. There are no specific hardware requirements, so any existing WLAN infrastructure can be used for positioning.
+
+The fingerprinting method is based on the relationship between a given location and its Corresponding  radio signature. It’s been observed that points with a certain minimum distance
+between them and spread over the area of interest possess a unique set of RSS readings from APs and this is referred to as the fingerprint for that location.
+
+Here we to understand more about this method.
+
+
+Hardware  & Software Required:
+
+1.	ESP8266 
+2.	 wifi module
+3.	Laptop with Windows (8,10)
+4.	Netspot software
+5.	Arduino Uno
+6.	Breadboard
+
+
+ Contribution That Project Will Make:
+
+This project will help in better indoor localization services especially in large indoor spaces such as -
+Shopping malls : Guide people inside a shopping mall 
+Museum tours : Your phone can be your virtual guide that'll give you contextual information based on your location.
+Warehouses : Improved automation capabilities , etc..
+As such places have large number of Access Points are available
